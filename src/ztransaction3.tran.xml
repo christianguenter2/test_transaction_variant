@@ -3,25 +3,23 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <TSTC>
-    <TCODE>ZTRANSACTION</TCODE>
-    <PGMNA>ZTRANSACTION</PGMNA>
-    <DYPNO>1000</DYPNO>
-    <CINFO>kA==</CINFO>
+    <TCODE>ZTRANSACTION3</TCODE>
+    <CINFO>Ag==</CINFO>
    </TSTC>
    <TSTCC>
-    <TCODE>ZTRANSACTION</TCODE>
+    <TCODE>ZTRANSACTION3</TCODE>
     <S_WEBGUI>1</S_WEBGUI>
     <S_WIN32>X</S_WIN32>
     <S_PLATIN>X</S_PLATIN>
    </TSTCC>
    <TSTCT>
     <SPRSL>E</SPRSL>
-    <TCODE>ZTRANSACTION</TCODE>
-    <TTEXT>test transaction</TTEXT>
+    <TCODE>ZTRANSACTION3</TCODE>
+    <TTEXT>test</TTEXT>
    </TSTCT>
    <TSTCP>
-    <TCODE>ZTRANSACTION</TCODE>
-    <PARAM>/V2</PARAM>
+    <TCODE>ZTRANSACTION3</TCODE>
+    <PARAM>/*ZTRANSACTION S_ARBGB-LOW=00;P_SPRSL=DE;</PARAM>
    </TSTCP>
   </asx:values>
  </asx:abap>
