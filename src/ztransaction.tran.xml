@@ -4,16 +4,8 @@
   <asx:values>
    <TSTC>
     <TCODE>ZTRANSACTION</TCODE>
-    <PGMNA>ZTRANSACTION</PGMNA>
-    <DYPNO>1000</DYPNO>
-    <CINFO>kA==</CINFO>
+    <CINFO>Ag==</CINFO>
    </TSTC>
-   <TSTCC>
-    <TCODE>ZTRANSACTION</TCODE>
-    <S_WEBGUI>1</S_WEBGUI>
-    <S_WIN32>X</S_WIN32>
-    <S_PLATIN>X</S_PLATIN>
-   </TSTCC>
    <TSTCT>
     <SPRSL>E</SPRSL>
     <TCODE>ZTRANSACTION</TCODE>
@@ -21,7 +13,7 @@
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION</TCODE>
-    <PARAM>/V2</PARAM>
+    <PARAM>@2</PARAM>
    </TSTCP>
   </asx:values>
  </asx:abap>
