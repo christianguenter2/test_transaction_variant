@@ -19,7 +19,7 @@
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION3</TCODE>
-    <PARAM>/*ZTRANSACTION S_ARBGB-LOW=00;P_SPRSL=DE;</PARAM>
+    <PARAM>@ZTRANSACTION</PARAM>
    </TSTCP>
   </asx:values>
  </asx:abap>
