@@ -17,4 +17,5 @@ SELECT FROM t100
        INTO TABLE @DATA(lt_t100)
        UP TO 100 ROWS.
 
+cl_demo_output=>write( |Test| ).
 cl_demo_output=>display( lt_t100 ).
