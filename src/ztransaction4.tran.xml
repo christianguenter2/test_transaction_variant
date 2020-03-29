@@ -18,7 +18,7 @@
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION4</TCODE>
-    <PARAM>@@SE11 ZSE11_XX</PARAM>
+    <PARAM>@SE11</PARAM>
    </TSTCP>
   </asx:values>
  </asx:abap>
